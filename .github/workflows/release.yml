@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   push:
     branches: master
-    paths: Packages/org.openvrctools.hierarchyplus/package.json
+    paths: Packages/org.openvrctools.vrcsdkplus/package.json
 
 jobs:
   # Validate Repository Configuration
